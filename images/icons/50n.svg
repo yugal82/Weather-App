@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="133px" height="112px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 23 19"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil5 {fill:url(#id2)}
+    .fil1 {fill:url(#id3)}
+    .fil4 {fill:url(#id4)}
+    .fil2 {fill:url(#id5)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="14.4409" y1="-2.87297" x2="6.5374" y2="5.03029">
+   <stop offset="0" style="stop-opacity:1; stop-color:#31C2DD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0B9BD7"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="9.58363" y1="8.6556" x2="4.05497" y2="14.1836">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="9.31682" y1="17.1493" x2="6.98868" y2="19.4771">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="16.4743" y1="0.488986" x2="8.40081" y2="8.56265">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="9.12297" y1="13.0069" x2="5.31178" y2="16.7252">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="14.6781" y1="4.14873" x2="7.03067" y2="11.7962">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_854389168">
+   <g>
+    <g>
+     <path class="fil0" d="M20 2l-19 0c0,0 -1,0 -1,-1 0,-1 1,-1 1,-1l19 0c0,0 1,0 1,1 0,1 -1,1 -1,1l0 0z"/>
+    </g>
+    <g>
+     <path class="fil1" d="M22 6l-19 0c-1,0 -1,-1 -1,-1 0,-1 0,-2 1,-2l19 0c0,0 1,1 1,2 0,0 -1,1 -1,1l0 0z"/>
+    </g>
+    <g>
+     <path class="fil2" d="M20 9l-18 0c-1,0 -1,0 -1,-1 0,-1 0,-1 1,-1l18 0c0,0 1,0 1,1 0,1 -1,1 -1,1l0 0z"/>
+    </g>
+    <g>
+     <path class="fil3" d="M13 12l-12 0c-1,0 -1,0 -1,-1 0,0 0,-1 1,-1l12 0c0,0 1,1 1,1 0,1 -1,1 -1,1l0 0z"/>
+    </g>
+    <g>
+     <path class="fil4" d="M10 16l-6 0c-1,0 -1,-1 -1,-1 0,-1 0,-1 1,-1l6 0c1,0 1,0 1,1 0,0 0,1 -1,1l0 0z"/>
+    </g>
+    <g>
+     <path class="fil5" d="M9 19l-2 0c-1,0 -1,0 -1,-1 0,0 0,-1 1,-1l2 0c1,0 1,1 1,1 0,1 0,1 -1,1l0 0z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
