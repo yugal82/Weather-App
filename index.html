@@ -54,7 +54,7 @@
 
         <div class="hero" data-bg-image="images/banner.png">
             <div class="container">
-                <form action="#" class="find-location">
+                <form class="find-location" id="cityForm">
                     <input type="text" placeholder="Find your location..." name="city" id="city">
                     <input type="submit" value="Find">
                 </form>
@@ -67,7 +67,7 @@
                     <div class="today forecast">
                         <div class="forecast-header">
                             <div class="day">Monday</div>
-                            <div class="date">6 Oct</div>
+                            <div class="date" id="todaysDate">6 Oct</div>
                         </div>
                         <!-- .forecast-header -->
                         <div class="forecast-content">
@@ -149,6 +149,8 @@
 
     <script src="js/jquery-1.11.1.min.js"></script>
     <script src="js/plugins.js"></script>
+    <script src="./js/slhttp.js"></script>
+    <script src="./js/weather-request.js"></script>
     <script src="js/app.js"></script>
 
 </body>
